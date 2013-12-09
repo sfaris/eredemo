@@ -1,2 +1,0 @@
-@isTest
-global class testClass{}
